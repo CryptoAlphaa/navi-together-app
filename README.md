@@ -10,13 +10,30 @@ Please also note the Web API that it uses: https://github.com/CryptoAlphaa/cryal
 - Logout
 - Register New Account (Token Based)
 - Email Verification For New Account
+- GitHub SSO Login
+- Signed Client Requests
+- XSS Prevention
+- CSRF Prevention
+- Code Injection Prevention
+- Forge Asssets Prevention
+- Asset Integrity : CSP
 - Auth Token
+- Auth Scopes
 - Distributed Pool
 - Encrypt and Decrypt data (App Level)
 - Flash Bar
 - Create Room (Room owner are set as an admin)
+- Delete Room
 - Join Room (Room member are set as a member)
+- Exit Room
+- Create Plan
+- Delete Plan
+- Create Waypoint
+- Delete Waypoint
 - View Profile
+- API Token
+- Get Location
+- Map Visualization
 - View My Room (List of joined and owned room with the authorization)
 
 ## Install
